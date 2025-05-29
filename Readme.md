@@ -1,3 +1,3 @@
 # Sun God Nika
 
-![Sun God Nika](../nika.webp)
+![Sun God Nika](../nika.jpg)
